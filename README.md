@@ -1,1 +1,2 @@
 # Smart-Home-Design-PacketTracer-IOT
+This project presents a simulation of a smart home environment using Cisco Packet Tracer. The smart home is designed to mimic a real-world IoT-enabled residence consisting of two floors, a garage, and a roof. The primary goal of this simulation is to demonstrate the integration and automation of various smart devices, controlled remotely through a smartphone connected to the internet via a cloud infrastructure.
